@@ -12,5 +12,9 @@ Finished webpage should look like this:
 
 ![alt= Webpage Preview](image.png)
 
+## Credits
+Learning Xpert:
+
+Used specifically in lines 78-93 for help in organizing code. Found in ./assets/css/style.css of the repo.
 
 
